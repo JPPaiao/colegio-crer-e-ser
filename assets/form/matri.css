@@ -1,0 +1,83 @@
+.containerF{
+    background-image: url("../images/912564-agncia-brasil-ministerio-publico-inspeciona-escolas-5855.jpg");
+}
+
+#conTcon{
+    background-color: rgba(0, 0, 0, 0.39);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#h1cont{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+#conForm{
+    max-width: 650px;
+    margin: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.conIn{
+    margin: auto;
+    padding: 5px;
+}
+
+
+.inp, .tex, .bot{
+    border-radius: 5px;
+    font-size: 17px;
+    border: 0;
+}
+
+.inp{
+    display: inline-block;
+    margin-bottom: 13px;
+    width: 98%;
+    height: 45px;
+    padding-left: 7px;
+}
+
+.dat{
+    color: rgb(109, 109, 109);
+}
+
+.tel{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding-right: 10px;
+}
+
+.pho{
+    margin-right: 10px;
+    width: 100%;
+}
+
+.cel{
+    margin: 0;
+}
+
+.tex{
+    padding: 7px 4px 0 7px;
+    margin-bottom: 2px;
+}
+
+#boto{
+    text-align: center;
+}
+
+.bot{
+    font-size: 18px;
+    padding: 7px 18px;
+    color: rgb(73, 73, 73);
+    background-color: white;
+}
+
+.bot:hover{
+    background-color: rgb(32, 32, 32);
+    color: rgb(197, 197, 197);
+}
